@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SmsListenerAppKotlin</string>
+    <string name="coming_text">Coming Text</string>
+    <string name="teks_message">teslslslslsl</string>
+    <string name="tutup">Tutup</string>
+</resources>
